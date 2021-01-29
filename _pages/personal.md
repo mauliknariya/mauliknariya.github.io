@@ -1,6 +1,6 @@
 ---
 layout: archive
 title: "Personal"
-permalink: /cv/
+permalink: /personal/
 author_profile: true
 ---
