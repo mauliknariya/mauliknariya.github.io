@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-12-15
 venue: 'Preprint (in review at Scientific Data)'
 paperurl: ''
-citation: 'Kalocsay, M., Berberich, M.J., Everley, R.A., <b>Nariya, M.K.</b>, Chung, M., Gaudio, B., Victor, C., Bradshaw, G.A., Hafner, M., Sorger P.K., Mills, C.E., Subramanian, K'
+citation: 'Kalocsay, M., Berberich, M.J., Everley, R.A., <b>Nariya, M.K.</b>, Chung, M., Gaudio, B., Victor, C., Bradshaw, G.A., Hafner, M., Sorger P.K., Mills, C.E., Subramanian, K.'
 ---
 
 # Abstract 
