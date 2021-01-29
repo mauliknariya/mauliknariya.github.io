@@ -27,9 +27,9 @@ Work experience
   
 Skills
 ======
-* Data mining and visualization using Python
-* Machine learning
-* Linux-based high performance computing
+* Data mining and visualization (Python)
+* Machine learning (Python)
+* Linux-based high performance computing (SLURM)
 * Software development (Python, C++, Fortran)
 * Version control of software packages (GitHub)
 * Containerizing software packages (Docker)
