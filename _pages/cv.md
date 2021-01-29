@@ -17,11 +17,11 @@ Education
 
 Work experience
 ======
-* 2018--present: Postdoctoral Fellow
-   Harvard Medical School
+* 2018--present: Postdoctoral Fellow\
+   Harvard Medical School\
    Supervisor: Peter Sorger
 
-* 2012--2016: Graduate Teaching Assistant
+* 2012--2016: Graduate Teaching Assistant\
   University of Kansas
 
   
