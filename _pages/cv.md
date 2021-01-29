@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -34,4 +34,4 @@ Skills
 * Version control of software packages (GitHub)
 * Containerizing software packages (Docker)
 
-For a more detailed CV [click here] (http://mauliknariya.github.io/files/CV.pdf)
+For a more detailed CV [click here](http://mauliknariya.github.io/files/CV.pdf)
