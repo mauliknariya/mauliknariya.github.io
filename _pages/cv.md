@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics, St. Xavier's College, 2007 
-* M.S. in Physics, University of Pune, 2010
 * Ph.D. in Physics, University of Kansas, 2018 
+* M.S. in Physics, University of Pune, 2010
+* B.S. in Physics, St. Xavier's College, 2007 
+
 
 Work experience
 ======
