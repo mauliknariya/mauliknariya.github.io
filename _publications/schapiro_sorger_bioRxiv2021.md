@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/schapiro_sorger_bioRxiv2021
 excerpt: ''
 date: 2021-03-17
-venue: 'Preprint'
+venue: 'bioRxiv'
 paperurl: ''
 citation: 'Schapiro, D., Sokolov, A., Yapp, C., Muhlich, J. L., Hess, J., Lin, J.R., Chen, Y.A., <b>Nariya, M.K.</b>, Baker, G.J., Ruokonen, J., Maliga Z., Jacobson C.A., Farhi S.L., Abbondanza, D., McKinley, E.T., Betts, C. Regev A., Coffey R.J., Lisa M., Coussens, L.M., Santagata, S., and Sorger P.K.'
 
