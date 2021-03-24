@@ -17,4 +17,4 @@ I also like to cook, especially with other people. During grad school I really e
 
 Carpentry
 ==========
-I have always been fascinated by carpentry. With the help of YouTube, some powertools and a very understanding roommate, I made a [desk](http://mauliknariya.github.io/images/desk.jpg), a [bookshelf](http://mauliknariya.github.io/images/bookshelf.jpg), and a [nightstand](http://mauliknariya.github.io/images/nightstand.jpg) as my beginner woodworking projects. I have a long way to go. If I ever get a chance to go on a sabbatical, I would like to train in the Japanese style of woodworking. 
+I have always been fascinated by carpentry. With some powertools and YouTube, I made a [desk](http://mauliknariya.github.io/images/desk.jpg), a [bookshelf](http://mauliknariya.github.io/images/bookshelf.jpg), and a [nightstand](http://mauliknariya.github.io/images/nightstand.jpg) as my beginner woodworking projects. I have a long way to go. If I ever get a chance to go on a sabbatical, I would like to train in the Japanese style of woodworking. 
