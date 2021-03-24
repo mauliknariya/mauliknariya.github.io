@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Personal"
+title: ""
 permalink: /personal/
 author_profile: true
 ---
@@ -13,7 +13,7 @@ In my free time I like to play the guitar, sing, and sometimes write my own musi
 
 Cooking
 =======
-I also like to cook, especially with other people. During grad school I really enjoyed hosting potlucks and exchanging recipes. I am compiling a collection of [recipes] (http://mauliknariya.github.io/files/recipes.pdf), some of them are original, others are borrowed from friends or from the web. One of my life goals is to learn to cook at least one authentic dish from each continent.
+I also like to cook, especially with other people. During grad school I really enjoyed hosting potlucks and exchanging recipes. I am compiling a collection of [recipes](http://mauliknariya.github.io/files/recipes.pdf), some of them are original, others are borrowed from friends or from the web. One of my life goals is to learn to cook at least one authentic dish from each continent.
 
 Carpentry
 ==========
