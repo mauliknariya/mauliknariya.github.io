@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/nariya_deeds_bioarxiv2019
 excerpt: ''
 date: 2019-09-12
-venue: 'Preprint (in review at Biophysical Journal)'
+venue: 'bioRxiv (in review at Biophysical Journal)'
 paperurl: ''
 citation: '<b>Nariya, M.K.</b>, Mallela, A., Deeds, E.J.'
 ---
