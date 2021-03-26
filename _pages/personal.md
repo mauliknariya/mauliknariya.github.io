@@ -8,7 +8,7 @@ author_profile: true
 
 Music
 ======
-In my free time I like to play the guitar, sing, and sometimes write my own music. My biggest claim to fame is that I performed at the [venue](http://thebottlenecklive.com/) where bands like Foo Fighters and Pearl Jam once did (it was just an open mic, but still). I am also a big music nerd; be it rock or baroque, tell me something that I don't know and I will be all ears.
+In my free time I like to play the guitar, sing, and sometimes write my own music. My biggest claim to fame is that I performed at a [venue](http://thebottlenecklive.com/) where bands like Foo Fighters and Pearl Jam once did (it was just an open mic, but still). I am also a big music nerd; be it rock or baroque, tell me something that I don't know and I will be all ears.
 
 
 Cooking
