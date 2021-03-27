@@ -12,10 +12,10 @@ redirect_from:
 Work experience
 ======
 * 2018--present: Postdoctoral Fellow\
-  Harvard Medical School\
+  Harvard Medical School
 
 * 2012--2016: Graduate Teaching Assistant\
-  University of Kansas\
+  University of Kansas
 
 * 2009--2012: Junior Research Fellow\
   India-based Neutrino Observatory\
