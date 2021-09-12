@@ -3,7 +3,7 @@ title: "Robustness and the evolution of length control strategies in the type II
 collection: publications
 permalink: /publication/nariya_deeds_biophysj2021
 excerpt: ''
-date: 2020-07-9
+date: 2021-07-09
 venue: 'Biophysical Journal'
 paperurl: ''
 citation: '<b>Nariya, M.K.</b>, Mallela, A., Deeds, E.J.'
