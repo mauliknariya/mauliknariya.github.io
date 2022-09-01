@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am postdoctoral fellow in computational biology in [Developmental and Cell Biology](https://www.igbmc.fr/recherche/departements/biologie-du-developpement-et-cellules-souches) at Institut de Génétique et de Biologie Moléculaire et Cellulaire mentored by [Nacho Molina](https://www.igbmc.fr/igbmc/missions/annuaire/nacho-molina). For my postdoctoral research I have been developing biophsyical models of transcription factor binding and studying the dynamics of gene regulation during the cell cycle.  
+I am postdoctoral fellow in computational biology in [Developmental Biology and Stem Cells](https://www.igbmc.fr/recherche/departements/biologie-du-developpement-et-cellules-souches) at Institut de Génétique et de Biologie Moléculaire et Cellulaire mentored by [Nacho Molina](https://www.igbmc.fr/igbmc/missions/annuaire/nacho-molina). For my postdoctoral research I have been developing biophsyical models of transcription factor binding for the Ikaros family proteins and studying the dynamics of gene regulation during the cell cycle in pluripotent stem cells.  
 
 Previously I was a  postdoctoral fellow in the [Department of Systems Biology](https://sysbio.med.harvard.edu/) and the [Laboratory of Systems Pharmacology](https://hits.harvard.edu/the-program/laboratory-of-systems-pharmacology/about/) at [Harvard Medical School](https://hms.harvard.edu/) mentored by [Peter Sorger](https://sysbio.med.harvard.edu/peter-sorger). I was analyzing multi-omics datasets such as genomics, transcriptomics, and proteomics, to understand the pharmacologic response of cancer cells to therapeutic compounds. I am also interested in developing computational methods and tools for bioinformatics datasets. 
 
