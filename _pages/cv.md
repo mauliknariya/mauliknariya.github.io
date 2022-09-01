@@ -11,7 +11,10 @@ redirect_from:
 
 Work experience
 ======
-* 2018--present: Postdoctoral Fellow\
+* 2022--present: Postdoctoral Fellow\
+  Institut de Génétique et de Biologie Moléculaire et Cellulaire
+  
+* 2018--2022: Postdoctoral Fellow\
   Harvard Medical School
 
 * 2012--2016: Graduate Teaching Assistant\
