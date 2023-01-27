@@ -17,6 +17,9 @@ Work experience
 * 2018--2022: Postdoctoral Fellow\
   Harvard Medical School
 
+* 2016--2018: Graduate Research Assistant\
+  University of Kansas
+  
 * 2012--2016: Graduate Teaching Assistant\
   University of Kansas
 
