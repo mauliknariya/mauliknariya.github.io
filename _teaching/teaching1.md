@@ -2,7 +2,7 @@
 title: "Physics laboratory"
 collection: teaching
 type: "Undergraduate course"
-permalink: 
+permalink: /teaching/teaching1
 venue: "University of Kansas, Department of Physics and Astronomy"
 date:
 location: "Lawrence, KS, USA"
