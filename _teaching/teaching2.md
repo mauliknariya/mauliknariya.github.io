@@ -2,7 +2,7 @@
 title: "Thermal Physics"
 collection: teaching
 type: "Underaduate course"
-permalink: 
+permalink: /teaching/teaching2
 venue: "University of Kansas, Department of Physics and Astronomy"
 date: 2017-08-01
 location: "Lawrence, KS, USA"
