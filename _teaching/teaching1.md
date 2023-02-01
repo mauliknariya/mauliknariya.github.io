@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching1
 venue: "University of Kansas, Department of Physics and Astronomy"
-date:
+date: 2012-08-15
 location: "Lawrence, KS, USA"
 ---
 
