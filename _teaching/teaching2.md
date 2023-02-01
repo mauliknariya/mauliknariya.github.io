@@ -4,7 +4,7 @@ collection: teaching
 type: "Underaduate course"
 permalink: /teaching/teaching2
 venue: "University of Kansas, Department of Physics and Astronomy"
-date: 2017-08-01
+date: 2017-08-15
 location: "Lawrence, KS, USA"
 ---
 
