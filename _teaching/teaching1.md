@@ -8,7 +8,7 @@ date: 2012-08-15
 location: "Lawrence, KS, USA"
 ---
 
-Taught the following physics laboratory courses between the years 2012-2016:
+Instructor for general and intermediate physics laboratory courses between the years 2012-2016
 
 * General physics II laboratory PHSX 236\
   Experiments in electricity and magnetism, waves and sound.
