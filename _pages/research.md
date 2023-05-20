@@ -13,11 +13,12 @@ author_profile: true
 The true accuracy of a machine learning model is a population-level statistic that cannot be observed directly. In practice, predictor performance is estimated against one or more test datasets, and the accuracy of this estimate strongly depends on how well the test sets represent all possible unseen datasets. We present a simple approach, paired evaluation, for increasing the robustness of performance evaluation by systematic pairing of test samples, and use it to evaluate predictors of drug response in breast cancer cell lines and of disease severity in patients with Alzheimer’s Disease. Our results demonstrate that the choice of test data can cause variations in estimates of performance and that paired evaluation makes it possible to identify outliers, improve the accuracy of performance estimates in the presence of known confounders, and assign statistical significance when comparing machine learning models.
 
 [paired-eval repo](https://github.com/labsyspharm/paired-eval)
-
+<p align="center">
 <img src="/files/lpocv_schematic.png" 
         alt="Picture" 
         width="800" 
         style="display: block; margin: 0 auto" />
+</p>
 
 ## Mathematical models for length control in bacterial structures
 
