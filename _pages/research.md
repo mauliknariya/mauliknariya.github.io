@@ -14,6 +14,6 @@ Bacterial cells construct many structures, such as the flagellar hook and the ty
 
 | Substrate switching mechanism | Ruler mechanism |
 | ----------------------------------------------------- | --------------------------------------------- |
-| <img src="/files/substrate_switching.png" width="300"/> | <img src="/files/ruler_model.jpg" width="400"/> |
+| <img src="/files/substrate_switching.png" width="400"/> | <img src="/files/ruler_model.jpg" width="500"/> |
 
 
