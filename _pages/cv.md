@@ -41,5 +41,3 @@ Skills
 * Software development (Python, C++, Fortran)
 * Version control of software packages (GitHub)
 * Containerizing software packages (Docker)
-
-For a more detailed CV [click here](http://mauliknariya.github.io/files/CV.pdf)
