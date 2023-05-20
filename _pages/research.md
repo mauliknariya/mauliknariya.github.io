@@ -14,10 +14,10 @@ Bacterial cells construct many structures, such as the flagellar hook and the ty
 
 <div style="display:flex">
      <div style="flex:1;padding-right:10px;">
-          <img src="/files/substrate_switching.png" width="400"/>
+          <img src="/files/ruler_model.jpg" width="400"/>
      </div>
      <div style="flex:1;padding-left:10px;">
-          <img src="/files/ruler_model.jpg" width="500"/>
+           <img src="/files/substrate_switching.png" width="300"/>
      </div>
 </div>
 
