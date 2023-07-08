@@ -1,7 +1,7 @@
 ---
 title: "Paired evaluation of machine-learning models characterizes effects of confounders and outliers"
 collection: publications
-permalink: /publication/nariya_sokolov_cellpatterns.md
+permalink: /publication/nariya_sokolov_cellpatterns
 excerpt: ''
 date: 2023-07-7
 venue: 'Cell Patterns'
