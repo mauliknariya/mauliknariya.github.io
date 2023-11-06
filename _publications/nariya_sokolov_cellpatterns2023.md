@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/nariya_sokolov_cellpatterns2023
 excerpt: ''
 date: 2023-07-7
-venue: 'Cell Patterns'
+venue: 'Patterns'
 paperurl: ''
 citation: '<b>Nariya, M.K.</b>, Mills, C.E., Sorger, P.K., Sokolov, A.'
 ---
