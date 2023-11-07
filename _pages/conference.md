@@ -1,10 +1,8 @@
-
+---
 layout: archive
 title: ""
 permalink: /conference/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
