@@ -8,9 +8,6 @@ main:
   
   - title: "Teaching"
     url: /teaching/
-    
-  - title: "Conference"
-    url: /conference/
 
   - title: "CV"
     url: /cv/
