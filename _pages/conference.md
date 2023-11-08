@@ -10,11 +10,11 @@ author_profile: true
 Conference presentations
 ======
 * 2023: Poster \
-  Venue: Power of Many: Collective Behaviour Across Scales, EMBL Heidelberg, Germany.
+  Venue: Power of Many: Collective Behaviour Across Scales, EMBL Heidelberg, Germany.\
   Title: Modeling oscillatory gene regulation dynamics during cell cycle in embryonic stem cells.
   
 * 2023: Talk and poster \
-  Venue: 31st Conference on Intelligent Systems for Molecular Biology, Lyon, France.
+  Venue: 31st Conference on Intelligent Systems for Molecular Biology, Lyon, France.\
   Title: Modeling oscillatory gene regulation dynamics during cell cycle in embryonic stem cells.
   
 * 2018: Poster\
