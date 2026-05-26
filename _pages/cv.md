@@ -23,10 +23,6 @@ Work experience
 * 2012--2016: Graduate Teaching Assistant\
   University of Kansas, Lawrence, USA
 
-* 2009--2012: Junior Research Fellow\
-  India-based Neutrino Observatory\
-  Tata Institute of Fundamental Research, Mumbai, India
-
 Education
 ======
 * 2018: Ph.D. in Physics, University of Kansas, Lawrence, USA
@@ -35,9 +31,9 @@ Education
   
 Skills
 ======
-* Machine learning and artificial intelligence (Python)
-* Data mining and visualization (Python)
-* Linux-based high performance computing (SLURM)
-* Software development (Python, C++, Fortran)
-* Version control of software packages (GitHub)
-* Containerizing software packages (Docker)
+* Significant expertise in Python: JAX, PyTorch, scikit-learn, Pandas, Numpy, SciPy
+* Mathematical modeling and statistics: ODE modeling, Bayesian inference, Gillespie simulations
+* AL/ML tools: Variational autoencoders, convolutional neural networks, XGBoost, clustering
+* Analysis of sequencing and omics data: RNA-seq (bulk and single-cell), proteomics, MERFISH, CyCIF
+* Scientific computing and workflow management: SLURM, GitHub, Docker, Snakemake and Nextflow
+* Technical writing: scientific manuscripts and grants
