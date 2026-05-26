@@ -4,8 +4,7 @@ collection: teaching
 type: "Master's level course"
 permalink: /teaching/teaching3
 venue: "Université de Strasbourg"
-date: 2023-09-15
+date: 2025-10-1
 location: "Strasbourg, Grand-Est, France"
 ---
-
-Provided assistance with teaching master’s level elective course
+Taught a master's level course at the École supérieure de biotechnologie Strasbourg (48 hours total, CM + TD)
